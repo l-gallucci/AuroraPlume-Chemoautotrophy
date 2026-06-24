@@ -5,8 +5,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 [![DOI](ToAdd)](https://zenodo.org/badge/latestdoi/511899369)
-[![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Static Badge](https://img.shields.io/badge/Coded_in-Python-blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/Coded_in-Python-blue?link=%5Bhttps%3A%2F%2Fwww.python.org%5D">
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
