@@ -1,4 +1,4 @@
-# Natural hot springs as environmental reservoir of potential multidrug-resistant pathogens
+# Hydrogen Oxidation Fuels Autotrophic Carbon Fixation and Dominance of Ca. Sulfurimonas pluma in an Arctic Hydrothermal Vent Plume of the Aurora Hydrothermal Vent Field, Gakkel Ridge
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by-nd.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
