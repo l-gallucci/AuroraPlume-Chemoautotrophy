@@ -20,4 +20,6 @@ The repository contains the following files:
 
 Please cite as:
 
- _Published_
+Gallucci et al., 2026. Hydrogen Oxidation Fuels Autotrophic Carbon Fixation and Dominance of Ca. Sulfurimonas pluma in an Arctic Hydrothermal Vent Plume of the Aurora Hydrothermal Vent Field, Gakkel Ridge.
+
+ _In Prep_
