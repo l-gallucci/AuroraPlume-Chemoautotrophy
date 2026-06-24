@@ -1,7 +1,7 @@
 # Hydrogen Oxidation Fuels Autotrophic Carbon Fixation and Dominance of Ca. Sulfurimonas pluma in an Arctic Hydrothermal Vent Plume of the Aurora Hydrothermal Vent Field, Gakkel Ridge
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by-nd.svg)](https://forthebadge.com)
-[![forthebadge](/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 [![DOI](ToAdd)](https://zenodo.org/badge/latestdoi/511899369)
