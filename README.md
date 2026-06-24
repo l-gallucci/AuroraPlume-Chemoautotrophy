@@ -6,7 +6,7 @@
 
 [![DOI](ToAdd)](https://zenodo.org/badge/latestdoi/511899369)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
-![Static Badge](https://img.shields.io/badge/Coded_in-Python-blue?cacheSeconds=%5Bhttps%3A%2F%2Fwww.python.org%5D)
+[![General badge](https://img.shields.io/badge/Coded_in-Python-Green.svg)](https://www.python.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
