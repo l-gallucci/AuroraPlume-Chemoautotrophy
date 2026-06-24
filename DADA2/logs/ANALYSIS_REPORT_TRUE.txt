@@ -1,0 +1,3 @@
+DADA2 REPORT
+Pooling: TRUE 
+Chimera Method: pooled 

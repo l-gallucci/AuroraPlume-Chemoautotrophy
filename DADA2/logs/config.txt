@@ -1,0 +1,33 @@
+# ==============================================================================
+# CONFIG 1: STANDARD ANALYSIS (Auto-Detected Models)
+# ==============================================================================
+
+# --- General Settings ---
+ANALYSIS_NAME=PS137Aurora
+# Output folder specific to this analysis
+OUTPUT_DIR=
+N_THREADS=35
+
+# --- Input & Run-Specific Parameters ---
+MULTIPLE_RUNS=FALSE
+MERGE_ACROSS_RUNS=FALSE
+COLLAPSE_REPLICATES=FALSE
+
+# Run 1: 6575
+INPUT_DIR=
+TRUNC_LEN_F=280
+TRUNC_LEN_R=280
+BINNED_QUALITY_SCORES=AUTO
+MAX_EE_F=3.0
+MAX_EE_R=3.0
+# This triggers the Array Job (Task 1=pseudo, Task 2=TRUE)
+POOLING_METHODS=TRUE
+
+# --- Global Defaults ---
+MIN_OVERLAP=12
+MIN_ASV_LENGTH=390
+MAX_ASV_LENGTH=450
+
+# --- Databases ---
+SILVA_TRAIN=/silva_db/138.1/silva_nr99_v138.1_train_set.fa.gz
+SILVA_SPECIES=/silva_db/138.1/silva_species_assignment_v138.1.fa.gz
