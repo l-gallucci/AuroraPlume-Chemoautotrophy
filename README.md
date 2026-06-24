@@ -1,7 +1,7 @@
 # Hydrogen Oxidation Fuels Autotrophic Carbon Fixation and Dominance of Ca. Sulfurimonas pluma in an Arctic Hydrothermal Vent Plume of the Aurora Hydrothermal Vent Field, Gakkel Ridge
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by-nd.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=POWERED+BY&secondaryLabel=H2&primaryBGColor=%2331C4F3&secondaryBGColor=%23389AD5&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=POWERED+BY&secondaryLabel=H2&primaryBGColor=%2331C4F3&secondaryBGColor=%23389AD5&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=400&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 [![DOI](ToAdd)](https://zenodo.org/badge/latestdoi/511899369)
