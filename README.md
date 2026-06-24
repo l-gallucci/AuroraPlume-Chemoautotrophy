@@ -18,6 +18,10 @@ The repository contains the following files:
 
 - a series of .csv files to replicate the figures and analyses reported in the paper
 
+- Rscript for DADA2 execution, in particular refererring to DADAEasy[https://github.com/l-gallucci/DADAeasy], a wrapper for DADA2 that is automatically tracking down binned quality scores and normal quality score range for Illumina short reads run. Reference for this issue: https://github.com/benjjneb/dada2/issues/1307#issuecomment-4742136299 Briefly, binned quality scores can generate error in DADA2 pipeline, adaptation and new implementation are provided by the community and DADA2 developers to overcame this problem.
+
+- Python script for the thermodynamic modelling
+
 Please cite as:
 
 Gallucci et al., 2026. Hydrogen Oxidation Fuels Autotrophic Carbon Fixation and Dominance of Ca. Sulfurimonas pluma in an Arctic Hydrothermal Vent Plume of the Aurora Hydrothermal Vent Field, Gakkel Ridge.
